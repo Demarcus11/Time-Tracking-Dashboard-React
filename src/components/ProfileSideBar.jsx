@@ -1,9 +1,11 @@
+import Profile from "../assets/images/image-jeremy.png";
+
 export function ProfileSideBar({ selectedTimeframe, setSelectedTimeframe }) {
   return (
     <aside className="dashboard__sidebar dashboard__card profile__card profile | grid-row-span-2">
       <div className="card--card-lg profile | flex">
         <div className="profile__profile-picture">
-          <img src="src\assets\images\image-jeremy.png" alt="Jeremy Robson" />
+          <img src={Profile} alt="Jeremy Robson" />
         </div>
         <h1 className="name | flex">
           <span>Report for</span>
