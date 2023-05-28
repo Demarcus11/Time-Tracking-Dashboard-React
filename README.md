@@ -35,8 +35,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](https://drive.google.com/uc?export=view&id=1NZM0Aa-y_W-5BAjXsUqzKbRoLDhCbUit)
+![Mobile](https://drive.google.com/uc?export=view&id=1zeh65FKVZFjPXQdAbw3yFuHni90IIh7e)
 
 ### Links
 
